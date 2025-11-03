@@ -1,7 +1,6 @@
 # Cybersecurity-Internship-Projects
-This is a compendium of cybersecurity and information security projects completed during my internship, covering governance, risk management, awareness, and technical assessments.
-# Cybersecurity Internship Projects
-This repository contains internship projects demonstrating practical cybersecurity skills:
+This is a compendium of cybersecurity and information security projects completed during my internship demonstrating practical cybersecurity skills acquired covering governance, risk management, awareness, and technical assessments.
+
 - `01_information_security_policies/` — policy templates and guidance
 - `02_governance_frameworks/` — comparison of NIST, ISO, CIS
 - `03_risk_management/` — risk register examples
@@ -12,5 +11,5 @@ This repository contains internship projects demonstrating practical cybersecuri
 - `08_pen_test_vulnerability_assessment/` — sample findings
 
 ## Contact
-Your Name — your.email@example.com
+Matthew Akpomie — makpomie@gmail.com
 

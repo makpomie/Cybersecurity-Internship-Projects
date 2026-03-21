@@ -58,7 +58,7 @@ This is a compendium of cybersecurity and information security projects complete
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/matthewakpomie">My profile on LinkedIn</a></td>
+      <td><a href="www.linkedin.com/in/matthew-akpomie-phd-msc-hnd-fca-acti-cisa-cism-33525a21">My profile on LinkedIn</a></td>
     </tr>
     <tr>
   </tbody>
